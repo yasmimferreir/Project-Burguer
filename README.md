@@ -1,4 +1,4 @@
-## 🌟ProjectBurguer
+## 🌟ProjectBurguer🍔
 ## 🌟Disponivel para Mobile📲✔
 
 ![reponsivel](https://user-images.githubusercontent.com/97356148/172710190-bf174a4c-50cf-458a-bf34-1c30024495e1.jpg)
@@ -8,13 +8,6 @@
 
 
 ![burguerno](https://user-images.githubusercontent.com/97356148/172710336-d80ca1f2-e5a6-4b0a-8af8-c75a8dc73c3d.jpg)
-)
-
-
-
-
-
-
 
  <h2>🌟✔Resultado do projeto Interface web-Burguer.
 <h2>🛠⚙Ajustes e melhorias
